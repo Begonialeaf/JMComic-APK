@@ -6,6 +6,7 @@
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/hect0x7)
 [![GitHub all download](https://img.shields.io/github/downloads/hect0x7/JMComic-APK/total?color=orange&label=github%20downloads)](https://github.com/hect0x7/JMComic-APK/releases/latest)
+[![Download](https://img.shields.io/badge/禁漫APK-去下载-brightgreen?logo=android&logoColor=white)](https://github.com/hect0x7/JMComic-APK/releases/latest)
 [![GitHub latest releases](https://img.shields.io/github/v/release/hect0x7/JMComic-APK?color=blue&label=release)](https://github.com/hect0x7/JMComic-APK/releases/latest)
 
 </div>
@@ -47,15 +48,15 @@
 
 ---
 
-此外，如果你需要**离线浏览已下载的本子**，可以使用 [`plugin-jm-server`](https://github.com/hect0x7/plugin-jm-server)。
+此外，如果你需要**离线浏览已下载的本子**，可以使用 [`jm-view-server`](https://github.com/hect0x7/jm-view-server)。
 
-> [**plugin-jm-server**](https://github.com/hect0x7/plugin-jm-server) 是一个“离线版”禁漫天堂文件服务器，支持在浏览器中查看本地文件夹内的图片。该项目界面模仿禁漫章节的下拉式观看页面，并适配了手机端。
+> [**jm-view-server**](https://github.com/hect0x7/jm-view-server) 是一个“离线版”禁漫天堂文件服务器，支持在浏览器中查看本地文件夹内的图片。该项目界面模仿禁漫章节的下拉式观看页面，并适配了手机端。
 
-<a href="https://github.com/hect0x7/plugin-jm-server">
+<a href="https://github.com/hect0x7/jm-view-server">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hect0x7/hect0x7/output/profile/pin-plugin-jm-server-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hect0x7/hect0x7/output/profile/pin-plugin-jm-server.svg" />
-    <img alt="Repo Card" src="https://raw.githubusercontent.com/hect0x7/hect0x7/output/profile/pin-plugin-jm-server.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hect0x7/hect0x7/output/profile/pin-jm-view-server-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hect0x7/hect0x7/output/profile/pin-jm-view-server.svg" />
+    <img alt="Repo Card" src="https://raw.githubusercontent.com/hect0x7/hect0x7/output/profile/pin-jm-view-server.svg" />
   </picture>
 </a>
 
